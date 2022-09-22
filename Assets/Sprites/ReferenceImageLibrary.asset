@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4878992913698535770
+  m_GuidHigh: 12220080044354072983
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5374165957582688656
+      m_GuidHigh: 16847274638245253045
+    m_SerializedTextureGuid:
+      m_GuidLow: 1726136433158025060
+      m_GuidHigh: 1143662377137009882
+    m_Size: {x: 0.3, y: 0.3}
+    m_SpecifySize: 1
+    m_Name: CatPrefab
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5474969179785537909
+      m_GuidHigh: 9046320031538946476
+    m_SerializedTextureGuid:
+      m_GuidLow: 3640061733816784267
+      m_GuidHigh: 17276923021215530633
+    m_Size: {x: 0.1, y: 0.13333334}
+    m_SpecifySize: 1
+    m_Name: GirlPrefab
+    m_Texture: {fileID: 2800000, guid: 6ca4558b18dc328489fe5163f3f5c3ef, type: 3}
